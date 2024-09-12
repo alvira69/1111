@@ -6,7 +6,7 @@
 
     <meta charset="UTF-8">
 
-    <title> Пример простой страницы html</title>
+    <title> Пример простой страницы html1</title>
 
 </head>
 
